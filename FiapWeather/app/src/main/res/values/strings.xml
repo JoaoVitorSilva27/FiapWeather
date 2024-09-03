@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_city_input">CityInputActivity</string>
+    <string name="title_activity_error">ErrorActivity</string>
+</resources>

@@ -1,0 +1,14 @@
+<!-- res/drawable/rounded_header.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/white"/> <!-- Cor de fundo -->
+    <corners android:radius="16dp"/> <!-- Raio das bordas arredondadas -->
+    <padding
+        android:left="8dp"
+        android:top="8dp"
+        android:right="8dp"
+        android:bottom="8dp"/> <!-- Espaçamento interno -->
+    <!-- Opcional: Adicionar borda -->
+    <stroke
+        android:width="4dp"
+        android:color="@color/botao"/>
+</shape>
